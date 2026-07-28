@@ -6,7 +6,7 @@
 
 - 📊 Interested in Data Analysis and Financial Risk
 - 📈 Learning and applying actuarial and statistical models
-- 💻 Experience with R, Java, SQL, and Excel
+- 💻 Experience with R, Phyton, Java, SQL, and Excel
 - 📚 Currently expanding my skills in actuarial science and programming
 
 ## 🛠️ Technical Skills
