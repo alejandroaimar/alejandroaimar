@@ -11,7 +11,7 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming:** R, Java, SQL
+- **Programming:** R, Phyton, Java, SQL
 - **Data Analysis:** Excel, Statistical Modeling
 - **Finance:** Value at Risk (VaR), IBNR Reserving
 - **Mathematics:** Probability, Statistics, Financial Mathematics
