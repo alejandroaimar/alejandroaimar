@@ -1,86 +1,118 @@
 # Hi there! 👋 I'm Alejandro Aimar
 
-🎓 Actuarial Science Student  
-📈 Interested in Finance, Financial Risk and Quantitative Analysis
+🎓 Actuarial Science Student | Finance & Risk Management Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Actuarial Science student focused on applying mathematics, statistics and programming to solve financial and risk-related problems.
+I am an Actuarial Science student interested in Finance, Financial Risk Management and Quantitative Analysis.
 
-My main interests are:
+My academic background combines mathematics, statistics and programming to develop solutions for financial and actuarial problems.
 
-- Financial Analysis
-- Risk Management
+I am interested in applying quantitative methods to analyze data, evaluate risks and support decision-making through mathematical and computational tools.
+
+My main interests include:
+
+- Financial Risk Analysis
 - Quantitative Finance
+- Portfolio Risk Management
 - Statistical Modeling
 - Actuarial Mathematics
 - Data Analysis
-
-I enjoy developing computational solutions that combine financial theory, statistical methods and programming techniques to support decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming & Data Analysis
 
 - **R** — Intermediate / Advanced  
-  *Statistical analysis, simulations, risk models and data visualization*
+  Statistical modeling, simulations, VaR analysis and data visualization
 
 - **Python** — Intermediate / Advanced  
-  *Data analysis, programming and computational methods*
+  Data analysis, programming and computational methods
 
 - **Java** — Basic / Intermediate  
-  *Object-oriented programming and data structures*
+  Object-oriented programming and data structures
 
 - **SQL** — Intermediate  
-  *Database management and queries*
+  Database management and queries
 
 - **MATLAB** — Basic  
-  *Numerical methods and mathematical applications*
+  Numerical methods and mathematical applications
 
-### Data Analysis & Business Tools
+### Financial & Business Tools
 
 - **Excel** — Intermediate / Advanced  
-  *Financial models, analysis and reporting*
+  Financial models, analysis and reporting
 
 - **Power BI** — Intermediate  
-  *Data visualization and dashboards*
+  Data visualization and dashboards
 
-### Mathematical Tools
+### Mathematical Documentation
 
 - **LaTeX** — Intermediate  
-  *Mathematical reports and technical documentation*
+  Technical and mathematical reports
 
 ---
 
-## 📊 Finance & Actuarial Interests
+## 📈 Professional Interests
+
+I am interested in developing my career in areas related to:
 
 - Financial Risk Management
-- Value at Risk (VaR)
-- Portfolio Risk Analysis
-- Insurance Risk Models
-- IBNR Reserving
-- Probability and Statistics
-- Financial Mathematics
-- Quantitative Methods
+- Market Risk Analysis
+- Quantitative Finance
+- Investment Analysis
+- Actuarial Finance
+- Data-Driven Decision Making
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Value at Risk (Historical & Parametric)**  
-Financial risk analysis using statistical methods in R to estimate market risk.
+### 📊 Value at Risk (VaR) Analysis
 
-🔹 **IBNR Reserving - Chain Ladder Bootstrap**  
-Actuarial reserve estimation using simulation techniques and stochastic models.
+Implementation of Historical and Parametric Value at Risk models to measure financial market risk using R.
 
-🔹 **Insurance Management System (Java)**  
-Object-oriented programming project focused on insurance data management.
+**Tools:**
+- R
+- Statistical Analysis
+- Financial Mathematics
 
-*(Repositories coming soon)*
+---
+
+### 🏦 IBNR Reserving - Chain Ladder Bootstrap
+
+Estimation of insurance reserves using actuarial methodologies and Bootstrap simulation techniques.
+
+**Tools:**
+- R
+- Actuarial Mathematics
+- Simulation Methods
+
+---
+
+### 💻 Insurance Management System
+
+Java application developed using object-oriented programming and data structures for insurance policy and claims management.
+
+**Tools:**
+- Java
+- Object-Oriented Programming
+- Data Structures
+
+---
+
+### 📈 Statistical Analysis Projects
+
+Application of statistical methods, simulations and goodness-of-fit tests using R.
+
+**Tools:**
+- R
+- Probability
+- Statistics
 
 ---
 
@@ -92,5 +124,9 @@ Object-oriented programming project focused on insurance data management.
 
 ## 📫 Contact
 
-LinkedIn: Coming soon  
-Email: Add your professional email
+- LinkedIn: Coming soon
+- Email: Add your professional email
+
+---
+
+⭐ Always learning and developing new skills in actuarial science, finance and data analysis.
