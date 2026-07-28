@@ -1,60 +1,84 @@
 # Hi there! 👋 I'm Alejandro Aimar
 
 🎓 Actuarial Science Student  
-📊 Interested in Data Analysis, Financial Risk and Statistical Modeling
+📈 Interested in Finance, Financial Risk and Quantitative Analysis
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Actuarial Science student interested in applying mathematics, statistics and programming to solve real-world problems.
+I am an Actuarial Science student focused on applying mathematics, statistics and programming to solve financial and risk-related problems.
 
-My main interests include:
+My main interests are:
 
-- Financial Risk Analysis
+- Financial Analysis
+- Risk Management
+- Quantitative Finance
 - Statistical Modeling
-- Data Analysis
 - Actuarial Mathematics
-- Programming and Computational Methods
+- Data Analysis
+
+I enjoy developing computational solutions that combine financial theory, statistical methods and programming techniques to support decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
+- **R** — Intermediate / Advanced  
+  *Statistical analysis, simulations, risk models and data visualization*
 
-- RStudio
-- MySQL
-- Excel
-- Git/GitHub
+- **Python** — Intermediate / Advanced  
+  *Data analysis, programming and computational methods*
+
+- **Java** — Basic / Intermediate  
+  *Object-oriented programming and data structures*
+
+- **SQL** — Intermediate  
+  *Database management and queries*
+
+- **MATLAB** — Basic  
+  *Numerical methods and mathematical applications*
+
+### Data Analysis & Business Tools
+
+- **Excel** — Intermediate / Advanced  
+  *Financial models, analysis and reporting*
+
+- **Power BI** — Intermediate  
+  *Data visualization and dashboards*
+
+### Mathematical Tools
+
+- **LaTeX** — Intermediate  
+  *Mathematical reports and technical documentation*
 
 ---
 
-## 📈 Areas of Interest
+## 📊 Finance & Actuarial Interests
 
+- Financial Risk Management
 - Value at Risk (VaR)
+- Portfolio Risk Analysis
 - Insurance Risk Models
 - IBNR Reserving
 - Probability and Statistics
 - Financial Mathematics
+- Quantitative Methods
 
 ---
 
 ## 🚀 Featured Projects
 
 🔹 **Value at Risk (Historical & Parametric)**  
-Financial risk analysis using statistical methods in R.
+Financial risk analysis using statistical methods in R to estimate market risk.
 
 🔹 **IBNR Reserving - Chain Ladder Bootstrap**  
-Insurance reserve estimation using actuarial techniques and simulation.
+Actuarial reserve estimation using simulation techniques and stochastic models.
 
 🔹 **Insurance Management System (Java)**  
-Object-oriented programming project using data structures.
+Object-oriented programming project focused on insurance data management.
 
 *(Repositories coming soon)*
 
