@@ -1,41 +1,72 @@
 # Hi there! 👋 I'm Alejandro Aimar
 
-🎓 Actuarial Science Student passionate about data analysis, financial risk, and statistical modeling.
+🎓 Actuarial Science Student  
+📊 Interested in Data Analysis, Financial Risk and Statistical Modeling
 
-## 🚀 About Me
+---
 
-- 📊 Interested in Data Analysis and Financial Risk
-- 📈 Learning and applying actuarial and statistical models
-- 💻 Experience with R, Phyton, Java, SQL, and Excel
-- 📚 Currently expanding my skills in actuarial science and programming
+## 👨‍💻 About Me
+
+I am an Actuarial Science student interested in applying mathematics, statistics and programming to solve real-world problems.
+
+My main interests include:
+
+- Financial Risk Analysis
+- Statistical Modeling
+- Data Analysis
+- Actuarial Mathematics
+- Programming and Computational Methods
+
+---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** R, Phyton, Java, SQL
-- **Data Analysis:** Excel, Statistical Modeling
-- **Finance:** Value at Risk (VaR), IBNR Reserving
-- **Mathematics:** Probability, Statistics, Financial Mathematics
+### Programming Languages
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📂 Featured Projects
+### Tools & Technologies
 
-Coming soon...
+- RStudio
+- MySQL
+- Excel
+- Git/GitHub
+
+---
+
+## 📈 Areas of Interest
+
+- Value at Risk (VaR)
+- Insurance Risk Models
+- IBNR Reserving
+- Probability and Statistics
+- Financial Mathematics
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Value at Risk (Historical & Parametric)**  
+Financial risk analysis using statistical methods in R.
+
+🔹 **IBNR Reserving - Chain Ladder Bootstrap**  
+Insurance reserve estimation using actuarial techniques and simulation.
+
+🔹 **Insurance Management System (Java)**  
+Object-oriented programming project using data structures.
+
+*(Repositories coming soon)*
+
+---
+
+## 📊 GitHub Stats
+
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroaimar&show_icons=true)
+
+---
 
 ## 📫 Contact
 
-- LinkedIn: *(Coming soon)*
-- Email: *(Add your professional email here)*
-
-<!--
-**alejandroaimar/alejandroaimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: Coming soon  
+Email: Add your professional email
