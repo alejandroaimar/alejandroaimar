@@ -94,16 +94,6 @@ Estimation of insurance reserves using actuarial methodologies and Bootstrap sim
 
 ---
 
-### 💻 Insurance Management System
-
-Java application developed using object-oriented programming and data structures for insurance policy and claims management.
-
-**Tools:**
-- Java
-- Object-Oriented Programming
-- Data Structures
-
----
 
 ### 📈 Statistical Analysis Projects
 
@@ -125,7 +115,7 @@ Application of statistical methods, simulations and goodness-of-fit tests using 
 ## 📫 Contact
 
 - LinkedIn: Coming soon
-- Email: Add your professional email
+- Email: Ale2803cama@gmail.com
 
 ---
 
