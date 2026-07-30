@@ -84,6 +84,18 @@ Implementation of Historical and Parametric Value at Risk models to measure fina
 ---
 
 
+### 🗄️ Business Database Management System - El Corte Maestro
+
+Design and implementation of a relational database for a barbershop and barber school, replacing manual processes with a structured digital system for appointments, customers, payments, services, and academic organization.
+
+**Tools:**
+- MySQL
+- SQL
+- Database Design
+
+---
+
+
 ### 📊 Demographic & Actuarial Analysis - Tultitlán (2010-2025)
 
 Complete demographic study using INEGI census data, including population growth, mortality (life tables), fertility, migration and actuarial applications for health insurance and pensions.
@@ -119,11 +131,6 @@ Application of statistical methods, simulations and goodness-of-fit tests using 
 
 ---
 
-## 📊 GitHub Stats
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroaimar&show_icons=true)
-
----
 
 ## 📫 Contact
 
