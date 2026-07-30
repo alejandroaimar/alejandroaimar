@@ -74,10 +74,10 @@ I am interested in developing my career in areas related to:
 
 ### 📊 Value at Risk (VaR) Analysis
 
-Implementation of Historical and Parametric Value at Risk models to measure financial market risk using R.
+Implementation of Historical and Parametric Value at Risk models to measure financial market risk using Python.
 
 **Tools:**
-- R
+- Python
 - Statistical Analysis
 - Financial Mathematics
 
