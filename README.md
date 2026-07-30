@@ -83,6 +83,19 @@ Implementation of Historical and Parametric Value at Risk models to measure fina
 
 ---
 
+
+### 📊 Demographic & Actuarial Analysis - Tultitlán (2010-2025)
+
+Complete demographic study using INEGI census data, including population growth, mortality (life tables), fertility, migration and actuarial applications for health insurance and pensions.
+
+**Tools:**
+- Excel
+- Demographic Indicators
+- Actuarial Analysis
+
+---
+
+
 ### 🏦 IBNR Reserving - Chain Ladder Bootstrap
 
 Estimation of insurance reserves using actuarial methodologies and Bootstrap simulation techniques.
